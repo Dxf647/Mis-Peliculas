@@ -1,0 +1,20 @@
+<resources>
+
+    <string-array name="generos">
+        <item>Acción</item>
+        <item>Animación</item>
+        <item>Ciencia ficción</item>
+        <item>Comedia</item>
+        <item>Romance</item>
+        <item>Terror</item>
+    </string-array>
+
+    <string-array name="calificaciones">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
